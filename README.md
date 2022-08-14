@@ -1,15 +1,15 @@
-## Class :
+## Class 2:
 
 > Topics: Class, Data type, OOP, @Override, MaterialApp, Scaffold, AppBar, Image + pubspec.yaml
 
-## flutter_class_01_assignment
+## flutter_class_02_assignment
 
 1. [x] Manually main.dart file a কোড করে
 2. [x] বডিতে একটা এসেট ইমেজ এড করতে হবে ।
 3. [x] এ্যাপবার এড করতে হবে সাথে নেইম থাকবে.
 4. [x] ভ্যারিয়েবল, ক্লাস, ফাংশন সম্পর্কে অনলাইনের ডকুমেন্টস পড়তে হবে ।
 
-## Flutter_Class-01_Assignment
+## Flutter_Class-02_Assignment
 
 ## Getting Started
 
