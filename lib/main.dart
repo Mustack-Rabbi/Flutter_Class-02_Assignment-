@@ -21,12 +21,20 @@ class MyHomePage extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      appBar: AppBar(
-        title: const Text("Class-02 Assignment"),
-      ),
-      body: Container(
-        child: Center(child: Text("Class-02 Assignment")),
-      ),
-    );
+        appBar: AppBar(
+          title: const Text("Class-02 Assignment"),
+        ),
+        body: Center(
+          child: Column(
+            mainAxisAlignment: MainAxisAlignment.center,
+            children: const [
+              Text("Class-02 Assignment"),
+              Padding(
+                padding: EdgeInsets.all(28.0),
+                child: Image(image: AssetImage('assets/images/rabbi.jpg')),
+              )
+            ],
+          ),
+        ));
   }
 }
