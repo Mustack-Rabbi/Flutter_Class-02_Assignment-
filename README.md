@@ -64,4 +64,16 @@ class MyHomePage extends StatelessWidget {
  Image(image: AssetImage('assets/images/rabbi.jpg')),
 ```
 
-## Resust
+---
+
+---
+
+## Result
+
+---
+
+<br><br>
+
+![Class-02_Assignment_01](https://user-images.githubusercontent.com/86506002/184548811-647d7f26-3826-4bd9-968c-2b6cac41b17c.jpg)
+
+> > > > > > > a9911d16740166589059a58ec917ee31577430c0
