@@ -11,8 +11,6 @@
 
 ---
 
----
-
 ## Flutter_Class-02_Assignment
 
 ## Getting Started
@@ -66,11 +64,7 @@ class MyHomePage extends StatelessWidget {
 
 ---
 
----
-
 ## Result
-
----
 
 <br><br>
 
